@@ -1,0 +1,5 @@
+Загрузочная флешка Windows 10 с помощью WoeUSB
+
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo apt install woeusb
