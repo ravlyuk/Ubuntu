@@ -5,3 +5,7 @@ sudo apt update
 sudo apt install woeusb
 
 cat file | head -n 10
+
+
+setup mysql
+https://support.rackspace.com/how-to/install-mysql-server-on-the-ubuntu-operating-system/
